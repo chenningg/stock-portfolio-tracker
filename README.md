@@ -10,7 +10,7 @@ A completely free stock portfolio tracker that allows you to key in ticker symbo
 - Comprehensive stock summary with key insights on the stocks you own
 - Supports most exchanges globally, with stocks shown in their respective currencies
 - Automatic conversion to your local currency for a more relatable view in your portfolio summary
-- Locality support for both US and UK (for all those DD/MM versus MM/DD users!)
+- Locality support for both US and UK (for all those MM/DD versus DD/MM users)
 
 ## Install and Setup
 1. Go the base spreadsheet [HERE.](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
