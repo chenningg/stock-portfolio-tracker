@@ -1,5 +1,5 @@
 # Stock Portfolio Tracker
-A completely free stock portfolio tracker that allows you to key in ticker symbols and transactions to get comprehensive summaries on your portfolio and other data. [Get it here.](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
+A completely free stock portfolio tracker that allows you to key in ticker symbols and transactions to get comprehensive summaries on your portfolio and other data automatically. [Get it here.](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
 
 ## Features
 - Custom menus to sort and filter data
