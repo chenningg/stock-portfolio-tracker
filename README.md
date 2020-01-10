@@ -8,7 +8,7 @@ A completely free stock portfolio tracker that allows you to key in ticker symbo
 - Automatic portfolio history logging for your portfolio's own historical data
 - One click setup button that automatically sets up the portfolio for you, ready to use
 - Comprehensive stock summary with key insights on the stocks you own
-- Supports most exchanges, stocks are shown in their base currency
+- Supports most exchanges globally, with stocks shown in their respective currencies
 - Automatic conversion to your local currency for a more relatable view in your portfolio summary
 - Locality support for both US and UK (for all those DD/MM versus MM/DD users!)
 
