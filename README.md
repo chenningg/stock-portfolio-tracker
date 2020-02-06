@@ -4,10 +4,10 @@ A completely free stock portfolio tracker using Google Sheets that allows you to
 Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
 
 ## Features
-- Custom menus to sort and filter data
-- Add new transactions easily and specify the type of transaction (buy/sell/dividend etc.)
 - Automatically updating stock prices and other meta data (name, dividend yield, 200 day average etc.)
+- Add new transactions easily and specify the type of transaction (buy/sell/dividend etc.)
 - Automatic portfolio history logging for your portfolio's own historical data
+- Automatic logging of dividends and splits and historical price/units correction
 - One click setup button that automatically sets up the portfolio for you, ready to use
 - Comprehensive stock summary with key insights on the stocks you own
 - Supports most exchanges globally, with stocks shown in their respective currencies
