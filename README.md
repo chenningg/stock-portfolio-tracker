@@ -3,6 +3,8 @@ A completely free stock portfolio tracker using Google Sheets that allows you to
 <br></br>
 Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
 
+![Stock Portfolio Banner](https://i.imgur.com/MlSPvMJ.png?1)
+
 ## Features
 - One click setup button that automatically sets up the portfolio for you, ready to use
 - Automatically updating stock prices and other meta data (name, dividend yield, 200 day average etc.)
