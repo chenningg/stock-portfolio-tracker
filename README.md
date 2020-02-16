@@ -15,7 +15,7 @@ Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1FXQQ6PKt
 - Supports most exchanges globally, with stocks shown in their respective currencies
 - Automatic conversion to your local currency for a more relatable view in your portfolio summary
 - Locality support for both US and UK (for all those MM/DD versus DD/MM users)
-- Custom menu and over 1000 lines of appscript code
+- Custom menu and over 1000 lines of fully commented appscript code
 
 ## Install and Setup
 1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
