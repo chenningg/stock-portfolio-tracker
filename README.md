@@ -1,7 +1,7 @@
 # Stock Portfolio Tracker
 A completely free stock portfolio tracker using Google Sheets that allows you to key in ticker symbols and transactions to get comprehensive summaries on your portfolio with automatically updating prices, dividends, splits and more. 
 <br></br>
-Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
+Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
 
 ![Stock Portfolio Banner](https://i.imgur.com/MlSPvMJ.png?1)
 
@@ -18,7 +18,7 @@ Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1i9omUX7J
 - Custom menu and over 1000 lines of appscript code
 
 ## Install and Setup
-1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1i9omUX7J5SM07y7DBchXvKaKvsHgTlY5SLZevnR1kO4/edit?usp=sharing)
+1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
 2. Do not request edit access. Go to File > Make a copy to import a copy into your own Google Drive.
 3. In the Setup page of the spreadsheet, click the blue setup button.
 4. Change the user settings to your preferred locale and currency.
@@ -30,4 +30,13 @@ The spreadsheet has a few main sheets: <b>Setup, Portfolio Summary, Cash Flows, 
 In this user guide, we will cover the basic flow of how the spreadsheet is supposed to work. If you would like to see the inner workings and add your own things, you can find the source code in Tools > Script Editor.
 
 ### 1) Entering Transactions
-The first step is to enter transactions. This can be done in the <b>Transactions</b> sheet.
+The first step is to enter transactions. This can be done in the <b>Transactions</b> sheet. You will have to fill in all yellow cells.
+
+### 2) Adding Assets to Stock Summary
+If you purchased a new asset you didn't own before, you will have to add it to the <b>Stock Summary</b> sheet. Just head on over and click an empty dropdown box to add your new asset. Only assets you have not added will be shown.
+
+And honestly... that's about it! Everything else is automated. Mouse over the headers for detailed information if required.
+
+Enjoy!
+
+
