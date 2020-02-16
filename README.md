@@ -34,6 +34,8 @@ The first step is to enter transactions. This can be done in the <b>Transactions
 
 In the top menu, go to <b>Portfolio Menu > Transactions > Add New Transaction/Add New Buy Transaction.</b> A new transaction row will appear for you to key in your transaction details.
 
+![Custom Transactions Menu](https://i.imgur.com/A27leHW.png?1)
+
 > <p><b>New Transaction:</b> Adds a single new transaction row. Useful for transactions like selling and cash outs.</p>
 > <p><b>New Buy Transaction:</b> Adds two new transaction rows, one for cash in (to fund the buy transaction) and one for a buy transaction.</p>
 
