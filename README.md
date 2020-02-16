@@ -19,7 +19,7 @@ Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1FXQQ6PKt
 
 ## Install and Setup
 1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
-2. Do not request edit access. Go to File > Make a copy to import a copy into your own Google Drive.
+2. Do not request edit access. In the top menu, go to <b>File > Make a copy</b> to import a copy into your own Google Drive.
 3. In the Setup page of the spreadsheet, click the blue setup button.
 4. Change the user settings to your preferred locale and currency.
 5. You're done! It's that easy. Read on for detailed instructions on usage.
