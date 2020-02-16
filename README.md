@@ -36,7 +36,8 @@ In the top menu, go to <b>Portfolio Menu > Transactions > Add New Transaction/Ad
 
 > <p><b>New Transaction:</b> Adds a single new transaction row. Useful for transactions like selling and cash outs.</p>
 > <p><b>New Buy Transaction:</b> Adds two new transaction rows, one for cash in (to fund the buy transaction) and one for a buy transaction.</p>
-> <p>Note: You must have money in your account to be able to buy shares (for tracking purposes). Therefore, you must make sure to have enough cash balance to cover your share purchase. You can see your cash holdings in the <b>Cash Flows</b> sheet.</p>
+
+<p>Note: You must have money in your account to be able to buy shares (for tracking purposes). Therefore, you must make sure to have enough cash balance to cover your share purchase. You can see your cash holdings in the <b>Cash Flows</b> sheet.</p>
 
 ### 2) Adding Assets to Stock Summary
 If you purchased a new asset you didn't own before, you will have to add it to the <b>Stock Summary</b> sheet. Just head on over and click an empty dropdown box to add your new asset. Only assets you have not added will be shown.
