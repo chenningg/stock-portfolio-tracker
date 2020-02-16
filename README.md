@@ -46,8 +46,7 @@ If you purchased a new asset you didn't own before, you will have to add it to t
 
 Fill in all yellow cells, including the sector type and asset type of the asset.
 
-And honestly... that's about it! Everything else is automated. Mouse over the headers for detailed information if required.
-
-Enjoy!
+## Summary
+And honestly... that's about it! Everything else is automated. Note that this is an incomplete work, and the full version will be released shortly with its own website. It will still be completely free, so don't worry! Enjoy!
 
 
