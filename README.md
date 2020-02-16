@@ -44,6 +44,8 @@ In the top menu, go to <b>Portfolio Menu > Transactions > Add New Transaction/Ad
 ### 2) Adding Assets to Stock Summary
 If you purchased a new asset you didn't own before, you will have to add it to the <b>Stock Summary</b> sheet. Just head on over and click an empty dropdown box under the Stock Symbol column to add your new asset. Only assets you have not added will be shown.
 
+Fill in all yellow cells, including the sector type and asset type of the asset.
+
 And honestly... that's about it! Everything else is automated. Mouse over the headers for detailed information if required.
 
 Enjoy!
