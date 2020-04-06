@@ -17,7 +17,7 @@
 - Custom menu and over 1000 lines of fully commented appscript code
 
 ## Install and Setup
-1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
+1. Go the base spreadsheet: [LINK](https://docs.google.com/spreadsheets/d/1LcgOa1MP8T3sQnciHd95GUxvDiv6RpLeVmNe9pzG9c0/edit?usp=sharing)
 2. Do not request edit access. In the top menu, go to <b>File > Make a copy</b> to import a copy into your own Google Drive.
 3. In the Setup page of the spreadsheet, click the blue setup button.
 4. Change the user settings to your preferred locale and currency.
