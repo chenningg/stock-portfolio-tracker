@@ -1,8 +1,6 @@
 <h1 align="center">Stock Portfolio Tracker</h1>
 A completely free stock portfolio tracker using Google Sheets that allows you to key in ticker symbols and transactions to get comprehensive summaries on your portfolio with automatically updating prices, dividends, splits and more. 
-<br></br>
-
-Spreadsheet link: [Make a copy](https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing)
+<p><a href="https://docs.google.com/spreadsheets/d/1FXQQ6PKt8o27YgWu_5Nh79tUKH_JTXjwdPPXvMvUFJY/edit?usp=sharing">Make a copy here</a></p>
 
 ![Stock Portfolio Banner](https://i.imgur.com/MlSPvMJ.png?1)
 
