@@ -1,6 +1,6 @@
 <h1 align="center">Stock Portfolio Tracker</h1>
 
-<b><p>Note: Support for this is discontinued. I'm now using <a href="https://stocks.cafe/">https://stocks.cafe/</a> instead. You should check it out!</p></b>
+<b><p>Note: Support for this is discontinued. I'm now using <a href="https://stocks.cafe/user/tosignup?referral_code=chenningg97">https://stocks.cafe/</a> instead. You should check it out! (Disclaimer: This link uses my referral code).</p></b>
 
 <p>A completely free stock portfolio tracker using Google Sheets that allows you to key in ticker symbols and transactions to get comprehensive summaries on your portfolio with automatically updating prices, dividends, splits and more.</p>
 <p align="center"><a href="https://docs.google.com/spreadsheets/d/1LcgOa1MP8T3sQnciHd95GUxvDiv6RpLeVmNe9pzG9c0/edit?usp=sharing">Make a copy here</a></p>
